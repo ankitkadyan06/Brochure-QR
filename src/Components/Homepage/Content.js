@@ -62,7 +62,7 @@ const Content = () => {
               className="absolute top-2 right-2 z-[100] text-black text-lg"
               onClick={closePdfModal}
             >
-              <img src={close} alt="Close" className="w-[20px] h-[20px]" />
+              <img src={close} alt="Close" className="w-[30px] h-[30px]" />
             </button>
             <Link
               to={brochurePdf}
