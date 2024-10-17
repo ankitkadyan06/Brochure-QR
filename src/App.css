@@ -9,21 +9,6 @@ body {
   overflow: hidden;
 }
 
-/* .flipbook {
-  min-width: 315px;
-    min-height: 400px;
-    width: 100%;
-    max-width: 2000px;
-    display: block;
-}
-
-.page {
-  background-color: white;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-} */
 
 .logoBar{
   display: none !important;
